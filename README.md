@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Este proyecto corresponde al **backend de la aplicación Tienda de Ropa**, desarrollado con **Java y Spring Boot**. Su objetivo principal es proporcionar una **API REST** para la gestión de usuarios, funcionando como capa intermedia entre el frontend y la base de datos.
+Este proyecto corresponde al **backend de la aplicación tienda_ropa_front**, desarrollado con **Java y Spring Boot**. Su objetivo principal es proporcionar una **API REST** para la gestión de usuarios, funcionando como capa intermedia entre el frontend y la base de datos.
 
 El sistema está construido siguiendo una **arquitectura en capas**, lo que permite una correcta separación de responsabilidades, facilitando el mantenimiento, la escalabilidad y la comprensión del código.
 
